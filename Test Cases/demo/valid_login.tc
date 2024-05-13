@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>valid_login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a0a6052-c4c9-4993-ac4b-cad97d02ffa3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dd0ce93f-fb68-4828-9a72-d68a16ab582f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>dd0ce93f-fb68-4828-9a72-d68a16ab582f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
